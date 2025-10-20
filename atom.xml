@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>由留敷的第二次机会</title>
   
+  <subtitle>test blog for CTF and life</subtitle>
+  <link href="http://bisura-secondlife.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://bisura-secondlife.cn/"/>
   <updated>2025-10-18T11:47:21.040Z</updated>
-  <id>http://example.com/</id>
+  <id>http://bisura-secondlife.cn/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>由留敷</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/10/18/hello-world/"/>
-    <id>http://example.com/2025/10/18/hello-world/</id>
+    <link href="http://bisura-secondlife.cn/2025/10/18/hello-world/"/>
+    <id>http://bisura-secondlife.cn/2025/10/18/hello-world/</id>
     <published>2025-10-18T11:47:21.040Z</published>
     <updated>2025-10-18T11:47:21.040Z</updated>
     
